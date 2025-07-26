@@ -52,7 +52,7 @@ module.exports.run = async function({ api, event }) {
             }
             memLength.sort((a, b) => a - b);
             
-            (typeof threadData.customJoin == "undefined") ? msg = "ওয়েল কাম [   {name} ] টু বাঁশবাগান 😹" : msg = threadData.customJoin;
+            (typeof threadData.customJoin == "undefined") ? msg = " {name} আসসালামু আলাইকুম 😒 🎀 ওয়েল কাম  " : msg = threadData.customJoin;
             msg = msg
             .replace(/\{name}/g, nameArray.join(', '))
             .replace(/\{type}/g, (memLength.length > 1) ?  'Friends' : 'Friend')
