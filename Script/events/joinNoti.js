@@ -31,7 +31,7 @@ module.exports.run = async function({ api, event }) {
     if (event.logMessageData.addedParticipants.some(i => i.userFbId == api.getCurrentUserID())) {
         api.changeNickname(`[ ${global.config.PREFIX} ] • ${(!global.config.BOTNAME) ? " " : global.config.BOTNAME}`, threadID, api.getCurrentUserID());
         const fs = require("fs");
-        return api.sendMessage("", event.threadID, () => api.sendMessage({body: `~ হাই আইএম •➠𝗔𝗟𝗘𝗡~𝗕𝗢𝗧❤️‍🩹🎀 ফ্রম বাঁশবাগান 🤣`, attachment: fs.createReadStream(__dirname + "/cache/ullash.mp4")} ,threadID));
+        return api.sendMessage("", event.threadID, () => api.sendMessage({body: `~ আসসালামু আলাইকুম ${(!global.config.BOTNAME) চলে আসলাম তোমাদের মাঝে😙`, attachment: fs.createReadStream(__dirname + "/cache/ullash.mp4")} ,threadID));
     }
     else {
         try {
