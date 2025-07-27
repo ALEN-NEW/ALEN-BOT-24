@@ -7,7 +7,7 @@
 ## CLICK <a href="https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY/issues">HERE IF YOU ARE NEW TO BOTS</a>
 
 
-<img src='https://i.imgur.com/ePDUcck.jpeg'/>
+<img src='https://i.imgur.com/6abpJfV.jpeg'/>
 
 -------
 
