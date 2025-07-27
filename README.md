@@ -1,6 +1,6 @@
 ---------
 
-###  —͟͟͞͞𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️
+###  •➠𝗔𝗟𝗘𝗡~𝗕𝗢𝗧❤️‍🩹🎀
 ❖ **`A Massanger  Multi Device Bot To Take Your Massanger To Another Level !`** ❖
 
 ----------
@@ -12,7 +12,7 @@
 -------
 
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=cyan&center=true&vCenter=true&multiline=false&lines=`𝗜𝘀𝗹𝗮𝗺𝗶𝗰𝗸+𝗰𝗵𝗮𝘁+𝗯𝗼𝘁+V2`" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=cyan&center=true&vCenter=true&multiline=false&lines=`•➠𝗔𝗟𝗘𝗡~𝗕𝗢𝗧❤️‍🩹🎀+V2`" alt="">
 
 <br>
 
@@ -29,7 +29,7 @@
 </p>
 
 -----------
-<div align="center"><br> <img src="https://profile-counter.glitch.me/SILENT-SOBX-MD/count.svg" /><br>—͟͟͞͞𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️</div>
+<div align="center"><br> <img src="https://profile-counter.glitch.me/SILENT-SOBX-MD/count.svg" /><br>•➠𝗔𝗟𝗘𝗡~𝗕𝗢𝗧❤️‍🩹🎀</div>
 
 ------------
 
@@ -95,7 +95,7 @@ jobs:
 
 -----------    
 
-`🚀 IF YOU WANT MORE ABOUT 𝗜𝘀𝗹𝗮𝗺𝗶𝗰𝗸 𝗰𝗵𝗮𝘁 𝗯𝗼𝘁  :NEW UPDATED NEW CMDS SO JOIN OUR MASSANGER GROUP FOR MORE INFORMATION CLICK THIS RED BUTTON 🔳 AND JOIN THE GROUP 🚀`
+`🚀 IF YOU WANT MORE ABOUT •➠𝗔𝗟𝗘𝗡~𝗕𝗢𝗧❤️‍🩹🎀  :NEW UPDATED NEW CMDS SO JOIN OUR MASSANGER GROUP FOR MORE INFORMATION CLICK THIS RED BUTTON 🔳 AND JOIN THE GROUP 🚀`
 
 ---------
 
@@ -103,7 +103,7 @@ jobs:
 
 -----------
 
-`🚀 IF YOU WANT MORE ABOUT 𝗜𝘀𝗹𝗮𝗺𝗶𝗰𝗸 𝗰𝗵𝗮𝘁 𝗯𝗼𝘁  :-NEW UPDATED NEW CMDS SO SUBSCRIBE OUR YOUTUBE CHANNEL FOR MORE INFORMATION CLICK THIS BLUE BUTTON 🔳 AND JOIN THE YOUTUBE CHANNEL 🚀`
+`🚀 IF YOU WANT MORE ABOUT •➠𝗔𝗟𝗘𝗡~𝗕𝗢𝗧❤️‍🩹🎀  :-NEW UPDATED NEW CMDS SO SUBSCRIBE OUR YOUTUBE CHANNEL FOR MORE INFORMATION CLICK THIS BLUE BUTTON 🔳 AND JOIN THE YOUTUBE CHANNEL 🚀`
 
 ----------
 ## CREATE TALDROVE ACCOUNT
@@ -126,7 +126,7 @@ src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏ�
 
 ### <br>    ❖ DEPLOY_REPLIT ❖
 
-`🚀 IF U HAVE YOUR REPLIT ACCOUNT SO YOU CAN EASY DEPLOY 𝗜𝘀𝗹𝗮𝗺𝗶𝗰𝗸 𝗰𝗵𝗮𝘁 𝗯𝗼𝘁  ON REPLIT CLICK BLACK BUTTON [DEPLOY TO REPLIT] AND FIND CONFIG.JSON FILE THEN MONGODB KEY THEN RUN CODE AND ENJOY BOT 🚀`
+`🚀 IF U HAVE YOUR REPLIT ACCOUNT SO YOU CAN EASY DEPLOY •➠𝗔𝗟𝗘𝗡~𝗕𝗢𝗧❤️‍🩹🎀  ON REPLIT CLICK BLACK BUTTON [DEPLOY TO REPLIT] AND FIND CONFIG.JSON FILE THEN MONGODB KEY THEN RUN CODE AND ENJOY BOT 🚀`
 
 -------------
 
@@ -136,7 +136,7 @@ src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏ�
 
 ### <br>   ❖ DEPLOY_KOYEB ❖
 
-`🚀 IF YOU HAVE YOUR KOYEB ACCOUNT SO YOU CAN DEPLOY 𝗜𝘀𝗹𝗮𝗺𝗶𝗰𝗸 𝗰𝗵𝗮𝘁 𝗯𝗼𝘁  ON KOYEB WITH EASY SETUP 🚀`
+`🚀 IF YOU HAVE YOUR KOYEB ACCOUNT SO YOU CAN DEPLOY •➠𝗔𝗟𝗘𝗡~𝗕𝗢𝗧❤️‍🩹🎀  ON KOYEB WITH EASY SETUP 🚀`
 
 ---------
 
@@ -146,7 +146,7 @@ src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏ�
 
 ### <br>  ❖ DEPLOY_RAILWAY ❖
 
-`🚀 IF YOU HAVE YOUR RAILWAY ACCOUNT SO YOU CAN DEPLOY 𝗜𝘀𝗹𝗮𝗺𝗶𝗰𝗸 𝗰𝗵𝗮𝘁 𝗯𝗼𝘁   ON RAILWAY WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON 🚀`
+`🚀 IF YOU HAVE YOUR RAILWAY ACCOUNT SO YOU CAN DEPLOY •➠𝗔𝗟𝗘𝗡~𝗕𝗢𝗧❤️‍🩹🎀   ON RAILWAY WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON 🚀`
 
 --------
 
@@ -174,7 +174,7 @@ src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏ�
 <a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
 
 -----------
-`🚀 HOW TO DEPLOY 𝗜𝘀𝗹𝗮𝗺𝗶𝗰𝗸 𝗰𝗵𝗮𝘁 𝗯𝗼𝘁  ON WORKFLOWS FREE GITHUB WATCH VIDEO 🚀`
+`🚀 HOW TO DEPLOY •➠𝗔𝗟𝗘𝗡~𝗕𝗢𝗧❤️‍🩹🎀  ON WORKFLOWS FREE GITHUB WATCH VIDEO 🚀`
 
 -------------
 
@@ -213,7 +213,7 @@ May this journey continue with all of you by my side, **In Shaa Allah**.`
 
 ----------
 
-Thanks For Using 𝗜𝘀𝗹𝗮𝗺𝗶𝗰𝗸 𝗰𝗵𝗮𝘁 𝗯𝗼𝘁  
+Thanks For Using •➠𝗔𝗟𝗘𝗡~𝗕𝗢𝗧❤️‍🩹🎀  
 
 > Release Date : 15/04/2025 at 08.00 
 Dᴏɴ’ᴛ Fᴏʀɢᴇᴛ ᴛᴏ ɢɪᴠᴇ ᴀ sᴛᴀʀ ⭐️ ᴀꜰᴛᴇʀ ꜰᴏʀᴋ
