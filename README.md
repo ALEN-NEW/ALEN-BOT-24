@@ -116,7 +116,7 @@ src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏ�
  
 ### <br>   ❖ DEPLOY_HEROKU ❖
 
-`🚀 IF YOU WANT TO DEPLOY 𝗜𝘀𝗹𝗮𝗺𝗶𝗰𝗸 𝗰𝗵𝗮𝘁 𝗯𝗼𝘁  ON HEROKU SO FIRST GET  THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT 🚀`
+`🚀 IF YOU WANT TO DEPLOY •➠𝗔𝗟𝗘𝗡~𝗕𝗢𝗧❤️‍🩹🎀  ON HEROKU SO FIRST GET  THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT 🚀`
 
 ------------
  
